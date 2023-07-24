@@ -1,2 +1,21 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	justify-content: space-between;
+/* 	justify-content: space-around; */
+	flex-wrap: wrap;
+}
+.div-1{
+	background-color:green;
+	width:50px;
+}
+.div-2{
+	background-color:red;
+	width:50px;
+	
+}
+.div-3{
+	background-color:blue;
+	width:50px;
+}
